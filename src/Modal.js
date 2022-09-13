@@ -30,8 +30,8 @@ export default function Modal() {
             <span class="caret"></span></button>
             <div>
             <select>
-              <option value="fruit">MedSurg 1: 8:00:00PM - 12:00:00AM (LPN)</option>
-              <option value="vegetable">ICU 1: 10:00:00PM - 12:00:00AM (CNA)</option>
+              <option value="firstshift">MedSurg 1: 8:00:00PM - 12:00:00AM (LPN)</option>
+              <option value="secondshift">ICU 1: 10:00:00PM - 12:00:00AM (CNA)</option>
             </select>
           </div>
           </div>
@@ -40,8 +40,8 @@ export default function Modal() {
             <span class="caret"></span></button>
             <div>
             <select>
-              <option value="fruit">Tarra Burcher, LPN</option>
-              <option value="vegetable">Reuben Cornelisse , CNA</option>
+              <option value="firstnurse">Tarra Burcher, LPN</option>
+              <option value="secondnurse">Reuben Cornelisse , CNA</option>
             </select>
             </div>
           </div>
